@@ -1,0 +1,31 @@
+cabal: Entering directory '/tmp/cabal-tmp-177/brick-0.68.1'
+Configuring brick-0.68.1...
+Preprocessing library for brick-0.68.1..
+Building library for brick-0.68.1..
+[ 1 of 25] Compiling Brick.AttrMap    ( src/Brick/AttrMap.hs, dist/dist-sandbox-ee8bd1a/build/Brick/AttrMap.o )
+[ 2 of 25] Compiling Brick.BChan      ( src/Brick/BChan.hs, dist/dist-sandbox-ee8bd1a/build/Brick/BChan.o )
+[ 3 of 25] Compiling Brick.Types.TH   ( src/Brick/Types/TH.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Types/TH.o )
+[ 4 of 25] Compiling Brick.Types.Common ( src/Brick/Types/Common.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Types/Common.o )
+[ 5 of 25] Compiling Brick.Themes     ( src/Brick/Themes.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Themes.o )
+[ 6 of 25] Compiling Brick.Widgets.Border.Style ( src/Brick/Widgets/Border/Style.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Border/Style.o )
+[ 7 of 25] Compiling Data.IMap        ( src/Data/IMap.hs, dist/dist-sandbox-ee8bd1a/build/Data/IMap.o )
+[ 8 of 25] Compiling Brick.BorderMap  ( src/Brick/BorderMap.hs, dist/dist-sandbox-ee8bd1a/build/Brick/BorderMap.o )
+[ 9 of 25] Compiling Brick.Types.Internal ( src/Brick/Types/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Types/Internal.o )
+[10 of 25] Compiling Brick.Util       ( src/Brick/Util.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Util.o )
+[11 of 25] Compiling Brick.Types      ( src/Brick/Types.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Types.o )
+[12 of 25] Compiling Brick.Widgets.Internal ( src/Brick/Widgets/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Internal.o )
+[13 of 25] Compiling Brick.Widgets.Core ( src/Brick/Widgets/Core.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Core.o )
+[14 of 25] Compiling Brick.Widgets.ProgressBar ( src/Brick/Widgets/ProgressBar.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/ProgressBar.o )
+[15 of 25] Compiling Brick.Widgets.Edit ( src/Brick/Widgets/Edit.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Edit.o )
+[16 of 25] Compiling Brick.Widgets.Center ( src/Brick/Widgets/Center.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Center.o )
+[17 of 25] Compiling Brick.Widgets.Border ( src/Brick/Widgets/Border.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Border.o )
+[18 of 25] Compiling Brick.Widgets.Table ( src/Brick/Widgets/Table.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Table.o )
+[19 of 25] Compiling Brick.Widgets.Dialog ( src/Brick/Widgets/Dialog.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/Dialog.o )
+[20 of 25] Compiling Brick.Focus      ( src/Brick/Focus.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Focus.o )
+[21 of 25] Compiling Brick.Main       ( src/Brick/Main.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Main.o )
+[22 of 25] Compiling Brick.Widgets.List ( src/Brick/Widgets/List.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/List.o )
+[23 of 25] Compiling Brick.Widgets.FileBrowser ( src/Brick/Widgets/FileBrowser.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Widgets/FileBrowser.o )
+[24 of 25] Compiling Brick            ( src/Brick.hs, dist/dist-sandbox-ee8bd1a/build/Brick.o )
+[25 of 25] Compiling Brick.Forms      ( src/Brick/Forms.hs, dist/dist-sandbox-ee8bd1a/build/Brick/Forms.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/brick-0.68.1-I01hkGdzx755NkKuubDdMI
+cabal: Leaving directory '/tmp/cabal-tmp-177/brick-0.68.1'

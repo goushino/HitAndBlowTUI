@@ -1,0 +1,14 @@
+cabal: Entering directory '/tmp/cabal-tmp-303/titlecase-1.0.1'
+Configuring titlecase-1.0.1...
+Preprocessing library for titlecase-1.0.1..
+Building library for titlecase-1.0.1..
+[1 of 3] Compiling Data.Text.Titlecase.Internal ( src/Data/Text/Titlecase/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Titlecase/Internal.o )
+[2 of 3] Compiling Data.Text.Titlecase ( src/Data/Text/Titlecase.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Titlecase.o )
+[3 of 3] Compiling Paths_titlecase  ( dist/dist-sandbox-ee8bd1a/build/autogen/Paths_titlecase.hs, dist/dist-sandbox-ee8bd1a/build/Paths_titlecase.o )
+Preprocessing executable 'titlecase' for titlecase-1.0.1..
+Building executable 'titlecase' for titlecase-1.0.1..
+[1 of 1] Compiling Main             ( Main.hs, dist/dist-sandbox-ee8bd1a/build/titlecase/titlecase-tmp/Main.o )
+Linking dist/dist-sandbox-ee8bd1a/build/titlecase/titlecase ...
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/titlecase-1.0.1-DJlyvtpNhEdFtIto3s3fQp
+Installing executable titlecase in /home/runner/HitAndBlowTUI/.cabal-sandbox/bin
+cabal: Leaving directory '/tmp/cabal-tmp-303/titlecase-1.0.1'

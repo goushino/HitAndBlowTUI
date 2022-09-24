@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-184/word-wrap-0.5'
+Configuring word-wrap-0.5...
+Preprocessing library for word-wrap-0.5..
+Building library for word-wrap-0.5..
+[1 of 1] Compiling Text.Wrap        ( src/Text/Wrap.hs, dist/dist-sandbox-ee8bd1a/build/Text/Wrap.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/word-wrap-0.5-1YHHgUCGFp21ml0pvQUkNK
+cabal: Leaving directory '/tmp/cabal-tmp-184/word-wrap-0.5'

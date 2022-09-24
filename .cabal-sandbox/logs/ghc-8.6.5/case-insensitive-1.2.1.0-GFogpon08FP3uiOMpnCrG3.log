@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-179/case-insensitive-1.2.1.0'
+Configuring case-insensitive-1.2.1.0...
+Preprocessing library for case-insensitive-1.2.1.0..
+Building library for case-insensitive-1.2.1.0..
+[1 of 3] Compiling Data.CaseInsensitive.Internal ( Data/CaseInsensitive/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/CaseInsensitive/Internal.o )
+[2 of 3] Compiling Data.CaseInsensitive ( Data/CaseInsensitive.hs, dist/dist-sandbox-ee8bd1a/build/Data/CaseInsensitive.o )
+[3 of 3] Compiling Data.CaseInsensitive.Unsafe ( Data/CaseInsensitive/Unsafe.hs, dist/dist-sandbox-ee8bd1a/build/Data/CaseInsensitive/Unsafe.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/case-insensitive-1.2.1.0-GFogpon08FP3uiOMpnCrG3
+cabal: Leaving directory '/tmp/cabal-tmp-179/case-insensitive-1.2.1.0'

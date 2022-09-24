@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-179/utf8-string-1.0.2'
+Configuring utf8-string-1.0.2...
+Preprocessing library for utf8-string-1.0.2..
+Building library for utf8-string-1.0.2..
+[1 of 5] Compiling Codec.Binary.UTF8.String ( Codec/Binary/UTF8/String.hs, dist/dist-sandbox-ee8bd1a/build/Codec/Binary/UTF8/String.o )
+[2 of 5] Compiling Codec.Binary.UTF8.Generic ( Codec/Binary/UTF8/Generic.hs, dist/dist-sandbox-ee8bd1a/build/Codec/Binary/UTF8/Generic.o )
+[3 of 5] Compiling Data.ByteString.Lazy.UTF8 ( Data/ByteString/Lazy/UTF8.hs, dist/dist-sandbox-ee8bd1a/build/Data/ByteString/Lazy/UTF8.o )
+[4 of 5] Compiling Data.ByteString.UTF8 ( Data/ByteString/UTF8.hs, dist/dist-sandbox-ee8bd1a/build/Data/ByteString/UTF8.o )
+[5 of 5] Compiling Data.String.UTF8 ( Data/String/UTF8.hs, dist/dist-sandbox-ee8bd1a/build/Data/String/UTF8.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/utf8-string-1.0.2-FP1EKCgJMgkB9n2B2eWYHr
+cabal: Leaving directory '/tmp/cabal-tmp-179/utf8-string-1.0.2'

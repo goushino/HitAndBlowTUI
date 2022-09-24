@@ -1,0 +1,14 @@
+cabal: Entering directory '/tmp/cabal-tmp-177/unordered-containers-0.2.18.0'
+Configuring unordered-containers-0.2.18.0...
+Preprocessing library for unordered-containers-0.2.18.0..
+Building library for unordered-containers-0.2.18.0..
+[1 of 8] Compiling Data.HashMap.Internal.Array ( Data/HashMap/Internal/Array.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Internal/Array.o )
+[2 of 8] Compiling Data.HashMap.Internal.List ( Data/HashMap/Internal/List.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Internal/List.o )
+[3 of 8] Compiling Data.HashMap.Internal ( Data/HashMap/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Internal.o )
+[4 of 8] Compiling Data.HashMap.Internal.Strict ( Data/HashMap/Internal/Strict.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Internal/Strict.o )
+[5 of 8] Compiling Data.HashSet.Internal ( Data/HashSet/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashSet/Internal.o )
+[6 of 8] Compiling Data.HashSet     ( Data/HashSet.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashSet.o )
+[7 of 8] Compiling Data.HashMap.Strict ( Data/HashMap/Strict.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Strict.o )
+[8 of 8] Compiling Data.HashMap.Lazy ( Data/HashMap/Lazy.hs, dist/dist-sandbox-ee8bd1a/build/Data/HashMap/Lazy.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/unordered-containers-0.2.18.0-v2qaNlhuwmHaZBpbtk4no
+cabal: Leaving directory '/tmp/cabal-tmp-177/unordered-containers-0.2.18.0'

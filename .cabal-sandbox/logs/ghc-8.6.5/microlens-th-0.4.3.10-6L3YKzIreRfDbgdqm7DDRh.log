@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-178/microlens-th-0.4.3.10'
+Configuring microlens-th-0.4.3.10...
+Preprocessing library for microlens-th-0.4.3.10..
+Building library for microlens-th-0.4.3.10..
+[1 of 2] Compiling Lens.Micro.TH.Internal ( src/Lens/Micro/TH/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Lens/Micro/TH/Internal.o )
+[2 of 2] Compiling Lens.Micro.TH    ( src/Lens/Micro/TH.hs, dist/dist-sandbox-ee8bd1a/build/Lens/Micro/TH.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/microlens-th-0.4.3.10-6L3YKzIreRfDbgdqm7DDRh
+cabal: Leaving directory '/tmp/cabal-tmp-178/microlens-th-0.4.3.10'

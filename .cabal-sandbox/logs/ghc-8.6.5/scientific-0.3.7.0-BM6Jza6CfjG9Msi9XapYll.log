@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-179/scientific-0.3.7.0'
+Configuring scientific-0.3.7.0...
+Preprocessing library for scientific-0.3.7.0..
+Building library for scientific-0.3.7.0..
+[1 of 5] Compiling GHC.Integer.Compat ( src/GHC/Integer/Compat.hs, dist/dist-sandbox-ee8bd1a/build/GHC/Integer/Compat.o )
+[2 of 5] Compiling Utils            ( src/Utils.hs, dist/dist-sandbox-ee8bd1a/build/Utils.o )
+[3 of 5] Compiling Data.Scientific  ( src/Data/Scientific.hs, dist/dist-sandbox-ee8bd1a/build/Data/Scientific.o )
+[4 of 5] Compiling Data.Text.Lazy.Builder.Scientific ( src/Data/Text/Lazy/Builder/Scientific.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Lazy/Builder/Scientific.o )
+[5 of 5] Compiling Data.ByteString.Builder.Scientific ( src/Data/ByteString/Builder/Scientific.hs, dist/dist-sandbox-ee8bd1a/build/Data/ByteString/Builder/Scientific.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/scientific-0.3.7.0-BM6Jza6CfjG9Msi9XapYll
+cabal: Leaving directory '/tmp/cabal-tmp-179/scientific-0.3.7.0'

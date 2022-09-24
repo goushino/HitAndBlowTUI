@@ -1,0 +1,32 @@
+cabal: Entering directory '/tmp/cabal-tmp-177/text-zipper-0.11'
+Configuring text-zipper-0.11...
+Preprocessing library for text-zipper-0.11..
+Building library for text-zipper-0.11..
+[1 of 4] Compiling Data.Text.Zipper.Vector ( src/Data/Text/Zipper/Vector.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Zipper/Vector.o )
+[2 of 4] Compiling Data.Text.Zipper ( src/Data/Text/Zipper.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Zipper.o )
+
+src/Data/Text/Zipper.hs:61:1: warning: [-Wunused-imports]
+    The import of `Data.Monoid' is redundant
+      except perhaps to import instances from `Data.Monoid'
+    To import instances alone, use: import Data.Monoid()
+   |
+61 | import Data.Monoid
+   | ^^^^^^^^^^^^^^^^^^
+
+src/Data/Text/Zipper.hs:78:10: warning: [-Wunused-top-binds]
+    Defined but not used: `lines_'
+   |
+78 |        , lines_ :: a -> [a]
+   |          ^^^^^^
+[3 of 4] Compiling Data.Text.Zipper.Generic ( src/Data/Text/Zipper/Generic.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Zipper/Generic.o )
+
+src/Data/Text/Zipper/Generic.hs:14:1: warning: [-Wunused-imports]
+    The import of `Data.Monoid' is redundant
+      except perhaps to import instances from `Data.Monoid'
+    To import instances alone, use: import Data.Monoid()
+   |
+14 | import           Data.Monoid
+   | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[4 of 4] Compiling Data.Text.Zipper.Generic.Words ( src/Data/Text/Zipper/Generic/Words.hs, dist/dist-sandbox-ee8bd1a/build/Data/Text/Zipper/Generic/Words.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/text-zipper-0.11-FoWZqKzZJNSDnojG2RLONd
+cabal: Leaving directory '/tmp/cabal-tmp-177/text-zipper-0.11'

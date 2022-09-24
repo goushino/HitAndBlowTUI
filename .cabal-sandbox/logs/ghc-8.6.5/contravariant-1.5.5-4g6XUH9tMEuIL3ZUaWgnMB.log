@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-182/contravariant-1.5.5'
+Configuring contravariant-1.5.5...
+Preprocessing library for contravariant-1.5.5..
+Building library for contravariant-1.5.5..
+[1 of 3] Compiling Data.Functor.Contravariant.Divisible ( src/Data/Functor/Contravariant/Divisible.hs, dist/dist-sandbox-ee8bd1a/build/Data/Functor/Contravariant/Divisible.o )
+[2 of 3] Compiling Data.Functor.Contravariant.Compose ( src/Data/Functor/Contravariant/Compose.hs, dist/dist-sandbox-ee8bd1a/build/Data/Functor/Contravariant/Compose.o )
+[3 of 3] Compiling Data.Functor.Contravariant.Generic ( src/Data/Functor/Contravariant/Generic.hs, dist/dist-sandbox-ee8bd1a/build/Data/Functor/Contravariant/Generic.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/contravariant-1.5.5-4g6XUH9tMEuIL3ZUaWgnMB
+cabal: Leaving directory '/tmp/cabal-tmp-182/contravariant-1.5.5'

@@ -1,0 +1,9 @@
+cabal: Entering directory '/tmp/cabal-tmp-178/th-abstraction-0.4.3.0'
+Configuring th-abstraction-0.4.3.0...
+Preprocessing library for th-abstraction-0.4.3.0..
+Building library for th-abstraction-0.4.3.0..
+[1 of 3] Compiling Language.Haskell.TH.Datatype.Internal ( src/Language/Haskell/TH/Datatype/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Language/Haskell/TH/Datatype/Internal.o )
+[2 of 3] Compiling Language.Haskell.TH.Datatype.TyVarBndr ( src/Language/Haskell/TH/Datatype/TyVarBndr.hs, dist/dist-sandbox-ee8bd1a/build/Language/Haskell/TH/Datatype/TyVarBndr.o )
+[3 of 3] Compiling Language.Haskell.TH.Datatype ( src/Language/Haskell/TH/Datatype.hs, dist/dist-sandbox-ee8bd1a/build/Language/Haskell/TH/Datatype.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/th-abstraction-0.4.3.0-3NTff6cW8fLDZrzmDUZpKQ
+cabal: Leaving directory '/tmp/cabal-tmp-178/th-abstraction-0.4.3.0'

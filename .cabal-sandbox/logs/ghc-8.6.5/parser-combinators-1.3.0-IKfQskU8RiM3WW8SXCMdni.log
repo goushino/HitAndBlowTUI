@@ -1,0 +1,13 @@
+cabal: Entering directory '/tmp/cabal-tmp-182/parser-combinators-1.3.0'
+Configuring parser-combinators-1.3.0...
+Preprocessing library for parser-combinators-1.3.0..
+Building library for parser-combinators-1.3.0..
+[1 of 7] Compiling Control.Applicative.Combinators ( Control/Applicative/Combinators.hs, dist/dist-sandbox-ee8bd1a/build/Control/Applicative/Combinators.o )
+[2 of 7] Compiling Control.Applicative.Combinators.NonEmpty ( Control/Applicative/Combinators/NonEmpty.hs, dist/dist-sandbox-ee8bd1a/build/Control/Applicative/Combinators/NonEmpty.o )
+[3 of 7] Compiling Control.Applicative.Permutations ( Control/Applicative/Permutations.hs, dist/dist-sandbox-ee8bd1a/build/Control/Applicative/Permutations.o )
+[4 of 7] Compiling Control.Monad.Combinators ( Control/Monad/Combinators.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Combinators.o )
+[5 of 7] Compiling Control.Monad.Combinators.Expr ( Control/Monad/Combinators/Expr.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Combinators/Expr.o )
+[6 of 7] Compiling Control.Monad.Combinators.NonEmpty ( Control/Monad/Combinators/NonEmpty.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Combinators/NonEmpty.o )
+[7 of 7] Compiling Control.Monad.Permutations ( Control/Monad/Permutations.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Permutations.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/parser-combinators-1.3.0-IKfQskU8RiM3WW8SXCMdni
+cabal: Leaving directory '/tmp/cabal-tmp-182/parser-combinators-1.3.0'

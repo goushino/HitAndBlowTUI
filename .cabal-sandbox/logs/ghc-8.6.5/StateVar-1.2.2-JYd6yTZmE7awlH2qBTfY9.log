@@ -1,0 +1,7 @@
+cabal: Entering directory '/tmp/cabal-tmp-178/StateVar-1.2.2'
+Configuring StateVar-1.2.2...
+Preprocessing library for StateVar-1.2.2..
+Building library for StateVar-1.2.2..
+[1 of 1] Compiling Data.StateVar    ( src/Data/StateVar.hs, dist/dist-sandbox-ee8bd1a/build/Data/StateVar.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/StateVar-1.2.2-JYd6yTZmE7awlH2qBTfY9
+cabal: Leaving directory '/tmp/cabal-tmp-178/StateVar-1.2.2'

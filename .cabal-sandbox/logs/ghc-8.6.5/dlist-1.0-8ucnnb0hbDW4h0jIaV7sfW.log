@@ -1,0 +1,11 @@
+cabal: Entering directory '/tmp/cabal-tmp-181/dlist-1.0'
+Configuring dlist-1.0...
+Preprocessing library for dlist-1.0..
+Building library for dlist-1.0..
+[1 of 5] Compiling Data.DList.Internal ( Data/DList/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/DList/Internal.o )
+[2 of 5] Compiling Data.DList       ( Data/DList.hs, dist/dist-sandbox-ee8bd1a/build/Data/DList.o )
+[3 of 5] Compiling Data.DList.DNonEmpty.Internal ( Data/DList/DNonEmpty/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Data/DList/DNonEmpty/Internal.o )
+[4 of 5] Compiling Data.DList.DNonEmpty ( Data/DList/DNonEmpty.hs, dist/dist-sandbox-ee8bd1a/build/Data/DList/DNonEmpty.o )
+[5 of 5] Compiling Data.DList.Unsafe ( Data/DList/Unsafe.hs, dist/dist-sandbox-ee8bd1a/build/Data/DList/Unsafe.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/dlist-1.0-8ucnnb0hbDW4h0jIaV7sfW
+cabal: Leaving directory '/tmp/cabal-tmp-181/dlist-1.0'

@@ -1,0 +1,19 @@
+cabal: Entering directory '/tmp/cabal-tmp-177/hashable-1.4.0.2'
+Configuring hashable-1.4.0.2...
+Preprocessing library for hashable-1.4.0.2..
+Building library for hashable-1.4.0.2..
+[1 of 7] Compiling Data.Hashable.Imports ( src/Data/Hashable/Imports.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/Imports.o )
+[2 of 7] Compiling Data.Hashable.LowLevel ( src/Data/Hashable/LowLevel.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/LowLevel.o )
+[3 of 7] Compiling Data.Hashable.Class ( src/Data/Hashable/Class.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/Class.o )
+[4 of 7] Compiling Data.Hashable.Lifted ( src/Data/Hashable/Lifted.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/Lifted.o )
+[5 of 7] Compiling Data.Hashable.Generic.Instances ( src/Data/Hashable/Generic/Instances.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/Generic/Instances.o )
+
+src/Data/Hashable/Generic/Instances.hs:5:14: warning: [-Wtrustworthy-safe]
+    `Data.Hashable.Generic.Instances' is marked as Trustworthy but has been inferred as safe!
+  |
+5 | {-# LANGUAGE Trustworthy #-}
+  |              ^^^^^^^^^^^
+[6 of 7] Compiling Data.Hashable.Generic ( src/Data/Hashable/Generic.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable/Generic.o )
+[7 of 7] Compiling Data.Hashable    ( src/Data/Hashable.hs, dist/dist-sandbox-ee8bd1a/build/Data/Hashable.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/hashable-1.4.0.2-45679OrlPvpJEGb1I6x7iN
+cabal: Leaving directory '/tmp/cabal-tmp-177/hashable-1.4.0.2'

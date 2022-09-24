@@ -1,0 +1,8 @@
+cabal: Entering directory '/tmp/cabal-tmp-183/exceptions-0.10.4'
+Configuring exceptions-0.10.4...
+Preprocessing library for exceptions-0.10.4..
+Building library for exceptions-0.10.4..
+[1 of 2] Compiling Control.Monad.Catch ( src/Control/Monad/Catch.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Catch.o )
+[2 of 2] Compiling Control.Monad.Catch.Pure ( src/Control/Monad/Catch/Pure.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Catch/Pure.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/exceptions-0.10.4-9YTZtPQxEYdL6R7qYx7mFz
+cabal: Leaving directory '/tmp/cabal-tmp-183/exceptions-0.10.4'

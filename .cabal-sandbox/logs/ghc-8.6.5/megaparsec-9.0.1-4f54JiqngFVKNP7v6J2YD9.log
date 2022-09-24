@@ -1,0 +1,34 @@
+cabal: Entering directory '/tmp/cabal-tmp-178/megaparsec-9.0.1'
+Configuring megaparsec-9.0.1...
+Preprocessing library for megaparsec-9.0.1..
+Building library for megaparsec-9.0.1..
+[ 1 of 16] Compiling Text.Megaparsec.Error[boot] ( Text/Megaparsec/Error.hs-boot, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Error.o-boot )
+[ 2 of 16] Compiling Text.Megaparsec.Pos ( Text/Megaparsec/Pos.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Pos.o )
+[ 3 of 16] Compiling Text.Megaparsec.State ( Text/Megaparsec/State.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/State.o )
+[ 4 of 16] Compiling Text.Megaparsec.Stream ( Text/Megaparsec/Stream.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Stream.o )
+[ 5 of 16] Compiling Text.Megaparsec.Error ( Text/Megaparsec/Error.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Error.o )
+[ 6 of 16] Compiling Text.Megaparsec.Error.Builder ( Text/Megaparsec/Error/Builder.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Error/Builder.o )
+[ 7 of 16] Compiling Text.Megaparsec.Class ( Text/Megaparsec/Class.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Class.o )
+[ 8 of 16] Compiling Text.Megaparsec.Internal ( Text/Megaparsec/Internal.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Internal.o )
+[ 9 of 16] Compiling Text.Megaparsec.Debug ( Text/Megaparsec/Debug.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Debug.o )
+[10 of 16] Compiling Text.Megaparsec  ( Text/Megaparsec.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec.o )
+[11 of 16] Compiling Text.Megaparsec.Common ( Text/Megaparsec/Common.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Common.o )
+[12 of 16] Compiling Text.Megaparsec.Lexer ( Text/Megaparsec/Lexer.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Lexer.o )
+[13 of 16] Compiling Text.Megaparsec.Char ( Text/Megaparsec/Char.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Char.o )
+[14 of 16] Compiling Text.Megaparsec.Char.Lexer ( Text/Megaparsec/Char/Lexer.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Char/Lexer.o )
+
+Text/Megaparsec/Char/Lexer.hs:4:14: warning: [-Wtrustworthy-safe]
+    `Text.Megaparsec.Char.Lexer' is marked as Trustworthy but has been inferred as safe!
+  |
+4 | {-# LANGUAGE Trustworthy #-}
+  |              ^^^^^^^^^^^
+[15 of 16] Compiling Text.Megaparsec.Byte ( Text/Megaparsec/Byte.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Byte.o )
+[16 of 16] Compiling Text.Megaparsec.Byte.Lexer ( Text/Megaparsec/Byte/Lexer.hs, dist/dist-sandbox-ee8bd1a/build/Text/Megaparsec/Byte/Lexer.o )
+
+Text/Megaparsec/Byte/Lexer.hs:2:14: warning: [-Wtrustworthy-safe]
+    `Text.Megaparsec.Byte.Lexer' is marked as Trustworthy but has been inferred as safe!
+  |
+2 | {-# LANGUAGE Trustworthy #-}
+  |              ^^^^^^^^^^^
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/megaparsec-9.0.1-4f54JiqngFVKNP7v6J2YD9
+cabal: Leaving directory '/tmp/cabal-tmp-178/megaparsec-9.0.1'

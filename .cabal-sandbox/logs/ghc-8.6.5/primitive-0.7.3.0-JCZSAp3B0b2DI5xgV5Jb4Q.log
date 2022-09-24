@@ -1,0 +1,18 @@
+cabal: Entering directory '/tmp/cabal-tmp-181/primitive-0.7.3.0'
+Configuring primitive-0.7.3.0...
+Preprocessing library for primitive-0.7.3.0..
+Building library for primitive-0.7.3.0..
+[ 1 of 12] Compiling Control.Monad.Primitive ( Control/Monad/Primitive.hs, dist/dist-sandbox-ee8bd1a/build/Control/Monad/Primitive.o )
+[ 2 of 12] Compiling Data.Primitive.Array ( Data/Primitive/Array.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/Array.o )
+[ 3 of 12] Compiling Data.Primitive.MVar ( Data/Primitive/MVar.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/MVar.o )
+[ 4 of 12] Compiling Data.Primitive.MachDeps ( Data/Primitive/MachDeps.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/MachDeps.o )
+[ 5 of 12] Compiling Data.Primitive.Internal.Operations ( Data/Primitive/Internal/Operations.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/Internal/Operations.o )
+[ 6 of 12] Compiling Data.Primitive.MutVar ( Data/Primitive/MutVar.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/MutVar.o )
+[ 7 of 12] Compiling Data.Primitive.SmallArray ( Data/Primitive/SmallArray.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/SmallArray.o )
+[ 8 of 12] Compiling Data.Primitive.Types ( Data/Primitive/Types.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/Types.o )
+[ 9 of 12] Compiling Data.Primitive.ByteArray ( Data/Primitive/ByteArray.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/ByteArray.o )
+[10 of 12] Compiling Data.Primitive.PrimArray ( Data/Primitive/PrimArray.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/PrimArray.o )
+[11 of 12] Compiling Data.Primitive.Ptr ( Data/Primitive/Ptr.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive/Ptr.o )
+[12 of 12] Compiling Data.Primitive   ( Data/Primitive.hs, dist/dist-sandbox-ee8bd1a/build/Data/Primitive.o )
+Installing library in /home/runner/HitAndBlowTUI/.cabal-sandbox/lib/x86_64-linux-ghc-8.6.5/primitive-0.7.3.0-JCZSAp3B0b2DI5xgV5Jb4Q
+cabal: Leaving directory '/tmp/cabal-tmp-181/primitive-0.7.3.0'
